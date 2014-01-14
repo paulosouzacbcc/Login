@@ -1,5 +1,7 @@
 <?php
+include_once 'config/Configuracao.php';
 ?>
+
 
 <html>
 
